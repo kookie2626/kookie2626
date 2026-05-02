@@ -3,7 +3,7 @@
   
   ### 👨‍💻 About Me
   - 🎓 **Education:** B.S. in Chemistry & Medical Chemistry from Yonsei University.
-  - 🏢 **Experience:** Founding member of **GPPL** (corporate entity of yogurt brand **Yogurtii**). Helped build and grow the brand over 4 years, gaining invaluable business insights.
+  - 🏢 **Experience:** Founding member of **GPPL**. Operated the **Yogurtii Gangnam** store for 4 years, gaining invaluable hands-on business and management insights.
   - 🌱 **Currently:** Pivoting my career! Currently exploring and building as an aspiring AI/Software Engineer at **SK Networks AI Bootcamp**.
   - 💡 **Goal:** Combining my business mindset with technical skills to solve real-world problems.
 </div>
