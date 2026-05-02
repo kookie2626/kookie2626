@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Hello,%20I'm%20Keunhyuk!&fontSize=70&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile%20%F0%9F%91%8B&descAlignY=51&descAlign=62" />
   
   ### 👨‍💻 About Me
-  - 🔭 I’m currently working on something awesome!
-  - 🌱 I’m currently learning **new technologies and frameworks**.
-  - 💬 Ask me about **anything related to tech**.
-  - 📫 How to reach me: GitHub!
+  - 🎓 **Education:** B.S. in Chemistry & Medical Chemistry from Yonsei University.
+  - 🏢 **Experience:** Founded and ran **GPPL** (corporate entity of yogurt brand **Yogurtii**) as CEO/Founder for 4 years, gaining invaluable business and leadership insights.
+  - 🌱 **Currently:** Pivoting my career! Currently exploring and building as an aspiring AI/Software Engineer at **SK Networks AI Bootcamp**.
+  - 💡 **Goal:** Combining my entrepreneurial mindset with technical skills to solve real-world problems.
 </div>
 
 ---
